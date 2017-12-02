@@ -1,0 +1,19 @@
+======Week 2======
+
+=====DOM=====
+  * the document object model
+  * a structure checking model
+  * structure
+    * head
+    * body
+  * [[http://validator.w3.org|Markup Validation Service]]
+
+//
+//
+
+=====Tags=====
+<html>
+<h1>Hello World </h1>
+</html>
+
+
