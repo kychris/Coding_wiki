@@ -16,4 +16,90 @@
 <h1>Hello World </h1>
 </html>
 
+====Types of Tags====
+  * block
+    * can take width and height
+    * takes up whole width
+  * inline
+    * cannot take width and height
+
+
+====Common Tags====
+  * heading
+    * <h1>, <h2>
+    * have syntax and semantics
+
+
+  * paragraphs
+    * <p> </p>
+    * should only contain inline elements
+
+
+  * Divs
+    * <div> </div>
+    * used for groupings
+
+  * ordered lists
+
+<HTML>
+<ol>
+    <li> item one </li>
+    <li> item two </li>
+</ol>
+</HTML>
+
+
+
+  * unordered list
+
+<HTML>
+<ul>
+    <li> item one </li>
+    <li> item two </li>
+</ul>
+</HTML>
+
+  * line break
+    * <br>
+
+
+====Common Attributes====
+  * provide additional information
+  * specified in the start tag
+  * come in name <--> value pairs
+
+  * images
+<html>
+<img src = "pic.jpg" alt = "image of pic"/>
+</html>
+
+
+
+====Semantic Tags====
+  * begin with classifying into divs
+<HTML>
+<div class = "header"> </div>
+<div class = "section> </div>
+</HTML>
+
+  * <header> </header>
+    * important info of the page
+
+  * <nav> </nav>
+    * link to other pages of the sides
+
+  * <footer> </footer>
+    * bottom of page for extra info
+
+  * <figure> </figure>
+    * caption
+    * multi-media
+
+
+
+
+
+
+
+
 
